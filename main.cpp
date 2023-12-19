@@ -5,6 +5,11 @@ int main()
     for (size_t i = 0; i < 5; i++)
     {
         /* code */
+        for (size_t i = 0; i < 10; i++)
+        {
+            /* code */
+        }
+        
     }
     
     int s=99;

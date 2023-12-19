@@ -4,6 +4,7 @@ int sum()
 {
     return 2+2;
 }
+int mult();
 int main()
 {
     int s=99;

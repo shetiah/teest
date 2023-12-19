@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int sum3()
+int suma()
 {
     return 8+2;
 }
@@ -21,6 +21,7 @@ int main()
     int s=99;
     int ja=0;
     int iLove=00;
-    cout << sum3();
-    return 0;
+
+    cout << suma();
+   return 0;
 }

@@ -4,11 +4,7 @@ int sum3()
 {
     return 8+2;
 }
-
-int div();
-
-int mult();
-
+int sas();
 int main()
 {
     int s=99;

@@ -13,7 +13,9 @@ int main()
         /* code */
         for (size_t i = 0; i < 10; i++)
         {
+
            cout <<"yaaaah";
+
         }
         
     }
